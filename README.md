@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 
 ![Snipaste_2021-01-20_11-27-50](_image/Snipaste_2021-01-20_11-27-50.jpg)
 
+真想找一份做golang kubernets开发的工作 ！  
+
+
+
 
