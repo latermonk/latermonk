@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Snipaste_2021-01-20_11-27-50](_image/Snipaste_2021-01-20_11-27-50.jpg)
 
-真想找一份做golang kubernets 云原生开发呀 ！  
+转型golang云原生开发 ing ...   
 
 
 
